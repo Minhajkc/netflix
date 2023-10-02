@@ -1,0 +1,364 @@
+body{
+    margin: 0%;
+    background-color:rgb(72, 70, 70);
+}
+.firstbg{
+  position: relative;
+}
+.bg img{
+    max-width: 100%;
+    opacity: 0.6;
+}
+.content1{
+    background-image: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0)60%,rgba(0,0,0,0.8)100%);
+    position: absolute;
+    inset: 0;
+    height: 860px;
+}
+.conte{
+    position: absolute;
+    inset: 0;
+}
+.header1{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.logo1{
+    height: 80px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.logo1 img{
+    width: 150px;
+}
+.btn1{
+    height: 80px;
+    width: 500px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.btn1 select{
+    background: none;
+    color: white;
+    border-radius: 5px;
+    padding-right: 20px;
+    margin-right: 30px;
+    padding: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: px;
+}
+.btn1 button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.imgbg h1{
+    color: white;
+}
+.conte h1{
+    color: white;
+    padding-left: 300px;
+    padding-top: 200px;
+    font-size: 40px;
+    padding-right: 300px;
+    text-align: center;
+}
+.conte h3{
+    color: white;
+    padding-left: 640px;
+}
+.conte h4{
+    color: white;
+    padding-left: 500px;
+}
+.conte input{
+    margin-left: 460px;
+    font-size: 30px;
+    background: none;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 4px;
+    
+}
+.conte a{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+    border-radius: 4px;
+
+}
+.emailsignup a{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+}
+.emailsignup input{
+    margin-left: 0px;
+    font-size: 30px;
+    background: none;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 4px;
+}
+#div2{
+    background-color:black;
+    height: 600px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#div2 img{
+    padding-top: 80px;
+}
+#two2 h1{
+    color: white;
+    padding-left: 200px;
+    padding-top: 200px;
+    font-size: 70px;
+}
+#two2 h2{
+    padding-left: 200px;
+    margin-top: -30px;
+}
+#two2{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    color: white;
+}
+#div3{
+    background-color: black;
+    height: 600px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#three1{
+    background-color: black;
+    height: 550px;
+    width: 100%;
+}
+#three2{
+    background-color:black;
+    height: 550px;
+
+}
+#div3 img{
+    padding-left: 30px;
+    padding-top: 100px;
+}
+#div3 h1{
+    color: white;
+    padding-top: 100px;
+    font-size: 70px;
+    padding-right: 11px;
+    padding-right: 30px;
+}
+#div3 h2{
+    margin-top: -30px;
+    padding-right: 300px;
+    color: white;
+}
+#div4{
+    background-color:black;
+    height: 600px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#four1{
+    background-color:black;
+    height: 550px;
+    width: 100%
+}
+#four2{
+    background-color:black;
+    height: 550px;
+}
+#four1 h1{
+    color: white;
+    padding-left: 200px;
+    padding-top: 200px;
+    font-size: 70px;
+}
+#four1 h2{
+    padding-left: 200px;
+    margin-top: -30px;
+    color: white;
+}
+#four2 img{
+    padding-top: 80px;
+}
+#div5{
+    background-color:black;
+    height: 600px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr
+}
+#five1{
+    background-color:black;
+    height: 550px;
+    width: 100%
+}
+#five2{
+    background-color:black;
+    height: 550px;
+}
+#div5 img{
+    padding-left: 30px;
+    padding-top: 100px;
+}
+#div5 h1{
+    color: white;
+    padding-top: 100px;
+    font-size: 70px;
+    padding-right: 11px;
+    padding-right: 70px;
+}
+#div5 h2{
+    margin-top: -30px;
+    padding-right: 300px;
+    color: white;
+}
+.div6{
+    background-color:black;
+    height: 760px;
+    margin-top: -45px;
+    text-align: center;
+    color: white;
+}
+.div6 h2{
+    font-size: 70px;
+    padding-top: 10px;
+    color: white;
+}
+.accordian{
+    margin:60px auto;
+    width: 100%;
+    max-width: 750px;
+}
+.accordian li{
+    list-style: none;
+    width: 100%;
+    padding: 5px;
+}
+.accordian label{
+    display: flex;
+    align-items:center;
+    padding: 20px;
+    font-size: 18px;
+    background: gray;
+    margin-bottom: 2px;
+    cursor: pointer;
+    position: relative;
+}
+label::after{
+    content: '+';
+    font-size: 34px;
+    position: absolute;
+    right: 20px;
+}
+input[type="radio"]{
+    display: none;
+}  
+.accordian .content{
+    background-color: gray;
+    text-align: left;
+    padding: 0 20px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s,padding 0.5s;
+}
+.accordian input[type="radio"]:checked + label + .content{
+    max-height: 600px;
+    padding: 30px 20px;
+}
+.accordian input[type="radio"]:checked + label::after{
+    transform: rotate(135deg);
+}
+small{
+    font-size: 20px;
+    
+}
+.div6 form{
+    background: none;
+}
+
+
+
+
+/*------------------------footer-----------------*/
+.div7{
+    background-color: black;
+    height: 450px;
+    margin-top: 10px;
+    display: flex;
+}
+.footer1{
+    height: 300px;
+    width: 300px;
+    margin-top: 70px;
+    margin-left: 160px;
+}
+.footer2{
+    height: 300px;
+    width: 300px;
+    margin-top: 70px;
+}
+.footer3{
+    height: 300px;
+    width: 300px;
+    margin-top: 70px;
+}
+.footer4{
+    height: 300px;
+    width: 300px;
+    margin-top: 70px;
+}
+.div7 a{
+    color: rgb(179, 177, 177);
+    text-decoration: none;
+}
+.div7 .footer2,.footer3,.footer4{
+    padding-top: 40px;
+}
+.div7 small{
+    color:rgb(179, 177, 177);
+}
+.footer1 select{
+    background: none;
+    color: white;
+    border-radius: 5px;
+    padding-right: 20px;
+    margin-right: 30px;
+    padding: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: px;
+    border-color: white;
+}
+.footer1 p{
+    color:rgb(179, 177, 177);
+}
+
+  
